@@ -7,7 +7,7 @@
 - Web viewer (if applicable)
 
 ## Screenshots / GIF
-![Screenshot](C:\Users\HPvns\AndroidStudioProjects\MyAppllication\res\screenshot)
+![Screenshot](https://github.com/TeeshaSrivastava/MyApplication/blob/main/res/screenshots/Screenshot%20(67).png)
 
 ## Setup Instructions
 1. Clone the repository
@@ -24,3 +24,4 @@
 - JNI: OpenCV native functions linked via `sdk` module
 - Frame flow: UI → OpenCV processing → display results
 - TypeScript (if any): handles web viewer
+
